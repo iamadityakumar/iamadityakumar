@@ -138,10 +138,16 @@ Faculty mentored research on classifying land cover from satellite images. Reach
 
 <div align="center">
 
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+<img src="./profile/stats.svg" height="180" alt="GitHub statistics" />
+<img src="./profile/languages.svg" height="180" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=iamadityakumar&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<p align="center">
+<a href="https://github.com/iamadityakumar?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Explore repositories" />
+</a>
+</p>
 
 ### 🧩 LeetCode
 
