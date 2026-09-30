@@ -138,15 +138,24 @@ Faculty mentored research on classifying land cover from satellite images. Reach
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub statistics" />
-<img src="./profile/languages.svg" height="180" alt="Top languages" />
+<a href="https://github.com/iamadityakumar?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+</a>
+
+<a href="https://github.com/iamadityakumar?tab=stars">
+  <img src="https://img.shields.io/badge/GitHub%20Profile-iamadityakumar-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+<a href="https://leetcode.com/u/iamadityakumar/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+</a>
 
 </div>
 
 <p align="center">
-<a href="https://github.com/iamadityakumar?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Explore repositories" />
-</a>
+  <sub>
+    Building in public · Backend systems · AI infrastructure · Developer tools
+  </sub>
 </p>
 
 ### 🧩 LeetCode
