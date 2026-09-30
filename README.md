@@ -96,14 +96,29 @@ Faculty mentored research on classifying land cover from satellite images. Reach
 </tr>
 </table>
 
-### 📌 Live repo cards
+### 📌 Live repo status
 
 <div align="center">
 
-<a href="https://github.com/iamadityakumar/forge"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=iamadityakumar&repo=forge&theme=tokyonight&hide_border=true" alt="forge" /></a>
-<a href="https://github.com/iamadityakumar/livecanvas"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=iamadityakumar&repo=livecanvas&theme=tokyonight&hide_border=true" alt="livecanvas" /></a>
-<a href="https://github.com/iamadityakumar/agentCLI"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=iamadityakumar&repo=agentCLI&theme=tokyonight&hide_border=true" alt="agentCLI" /></a>
-<a href="https://github.com/iamadityakumar/cache-simulator"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=iamadityakumar&repo=cache-simulator&theme=tokyonight&hide_border=true" alt="cache-simulator" /></a>
+<a href="https://github.com/iamadityakumar/forge"><img src="https://img.shields.io/badge/forge-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="forge" /></a>
+<img src="https://img.shields.io/github/stars/iamadityakumar/forge?style=flat-square&logo=github&color=1f6feb&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/iamadityakumar/forge?style=flat-square&color=1f6feb&labelColor=0d1117" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/iamadityakumar/forge?style=flat-square&color=1f6feb&labelColor=0d1117" alt="last commit" />
+<br/>
+<a href="https://github.com/iamadityakumar/livecanvas"><img src="https://img.shields.io/badge/livecanvas-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="livecanvas" /></a>
+<img src="https://img.shields.io/github/stars/iamadityakumar/livecanvas?style=flat-square&logo=github&color=1f6feb&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/iamadityakumar/livecanvas?style=flat-square&color=1f6feb&labelColor=0d1117" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/iamadityakumar/livecanvas?style=flat-square&color=1f6feb&labelColor=0d1117" alt="last commit" />
+<br/>
+<a href="https://github.com/iamadityakumar/agentCLI"><img src="https://img.shields.io/badge/agentCLI-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="agentCLI" /></a>
+<img src="https://img.shields.io/github/stars/iamadityakumar/agentCLI?style=flat-square&logo=github&color=1f6feb&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/iamadityakumar/agentCLI?style=flat-square&color=1f6feb&labelColor=0d1117" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/iamadityakumar/agentCLI?style=flat-square&color=1f6feb&labelColor=0d1117" alt="last commit" />
+<br/>
+<a href="https://github.com/iamadityakumar/cache-simulator"><img src="https://img.shields.io/badge/cache--simulator-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="cache-simulator" /></a>
+<img src="https://img.shields.io/github/stars/iamadityakumar/cache-simulator?style=flat-square&logo=github&color=1f6feb&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/iamadityakumar/cache-simulator?style=flat-square&color=1f6feb&labelColor=0d1117" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/iamadityakumar/cache-simulator?style=flat-square&color=1f6feb&labelColor=0d1117" alt="last commit" />
 
 </div>
 
@@ -123,8 +138,8 @@ Faculty mentored research on classifying land cover from satellite images. Reach
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamadityakumar&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadityakumar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=iamadityakumar&theme=tokyonight&hide_border=true" alt="Streak" />
 
